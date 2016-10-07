@@ -71,7 +71,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','n
     url: '/dash/:books/:bookName/:chapter',
     views: {
       'tab-dash': {
-        template: 'templates/tabs-dash-chapter.html',
+        templateUrl: 'templates/tabs-dash-chapter.html',
         controller: 'DashCtrl'
       }
     }

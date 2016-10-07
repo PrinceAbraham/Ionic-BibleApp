@@ -10,6 +10,7 @@ angular.module('starter.controllers', [])
         }else{
             $scope.books = "New Testament";
         }
+        $scope.bookType = $stateParams.books;
     }
     
     if($stateParams.bookName){
@@ -29,6 +30,7 @@ angular.module('starter.controllers', [])
         }
     } 
 if($stateParams.chapter){
+    $scope.chapterNumber = $stateParams.chapter;
     callContent();
 }
     function createChapter(chapterNumber){
