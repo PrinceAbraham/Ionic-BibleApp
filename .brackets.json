@@ -4,6 +4,16 @@
         "/Users/Prince/Desktop/myApp/platforms/ios/www/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
         "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/src/ubuntu/device.js",
         "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/src/windows/DeviceProxy.js",
-        "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/tests/tests.js"
+        "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/tests/tests.js",
+        "/Users/Prince/Desktop/myApp/plugins/ionic-plugin-keyboard/www/browser/keyboard.js",
+        "/Users/Prince/Desktop/myApp/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
+        "/Users/Prince/Desktop/myApp/plugins/ionic-plugin-keyboard/www/android/keyboard.js",
+        "/Users/Prince/Desktop/myApp/plugins/ionic-plugin-keyboard/src/windows/KeyboardProxy.js",
+        "/Users/Prince/Desktop/myApp/www/lib/ionic/js/angular/angular-animate.js",
+        "/Users/Prince/Desktop/myApp/www/lib/ionic/js/angular/angular-animate.min.js",
+        "/Users/Prince/Desktop/myApp/www/lib/ionic/js/angular/angular-resource.js",
+        "/Users/Prince/Desktop/myApp/www/js/app.js",
+        "/Users/Prince/Desktop/myApp/www/lib/ionic/js/angular/angular.js",
+        "/Users/Prince/Desktop/myApp/www/lib/ionic/js/angular/angular.min.js"
     ]
 }
