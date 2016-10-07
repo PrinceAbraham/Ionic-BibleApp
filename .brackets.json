@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/Prince/Desktop/myApp/plugins/ionic-plugin-keyboard/src/blackberry10/index.js",
+        "/Users/Prince/Desktop/myApp/platforms/ios/www/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
+        "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/src/ubuntu/device.js",
+        "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/src/windows/DeviceProxy.js",
+        "/Users/Prince/Desktop/myApp/plugins/cordova-plugin-device/tests/tests.js"
+    ]
+}
